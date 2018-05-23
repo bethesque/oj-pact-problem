@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/ohler55/oj.git
+  revision: 354cf419304383352a6ee126e62a7d2cdca63fec
+  branch: regex
+  specs:
+    oj (3.6.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -82,7 +89,6 @@ GEM
     multi_xml (0.6.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
-    oj (3.6.0)
     pact (1.26.0)
       json (> 1.8.5)
       pact-mock_service (~> 2.0)
@@ -218,7 +224,7 @@ DEPENDENCIES
   httparty
   jbuilder (~> 2.0)
   jquery-rails
-  oj
+  oj!
   pact
   rails (= 4.2.10)
   rspec-rails

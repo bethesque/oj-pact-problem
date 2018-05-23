@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'httparty'
-gem 'oj'
+gem 'oj', git: 'https://github.com/ohler55/oj.git', branch: 'regex'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
