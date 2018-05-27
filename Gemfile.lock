@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ohler55/oj.git
-  revision: 354cf419304383352a6ee126e62a7d2cdca63fec
+  revision: a83fc84811fbd2ae81aa21e4f1fa32df2ae090c8
   branch: regex
   specs:
     oj (3.6.1)
